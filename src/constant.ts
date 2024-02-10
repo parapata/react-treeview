@@ -1,0 +1,6 @@
+export const CONST = {
+  ITEM_TYPE_FOLDER: "1",
+  ITEM_TYPE_FILE: "2",
+  SELECTED_DIR: "SELECTED_DIR",
+  SELECTED_FILE: "SELECTED_FILE",
+} as const;
